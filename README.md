@@ -30,5 +30,6 @@
 </div>
   
   ##
-  
+  https://www.linkedin.com/in/arthur-moreira-da-silva-200b7b211
    <a href = "mailto:moreicdasilvaT7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "https://www.linkedin.com/in/arthur-moreira-da-silva-200b7b211"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
